@@ -50,3 +50,8 @@ main {
   flex-basis: 100px;
  
 }
+
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
