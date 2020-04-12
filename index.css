@@ -48,6 +48,7 @@ main {
   justify-content: center;
   align-items: center;
   flex-basis: 100px;
+  flex-shrink: 0
  
 }
 
